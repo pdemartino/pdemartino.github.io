@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>/posts/a-docker-based-dev-environment-for-jekyll/</loc>
+<lastmod>2023-07-20T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>/about/</loc>
+<lastmod>2023-07-23T09:59:55+02:00</lastmod>
+</url>
+<url>
+<loc>/tags/</loc>
+<lastmod>2023-07-23T09:59:55+02:00</lastmod>
+</url>
+<url>
+<loc>/</loc>
+</url>
+<url>
+<loc>/tags/docker/</loc>
+</url>
+<url>
+<loc>/tags/jekyll/</loc>
+</url>
+</urlset>
